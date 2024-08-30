@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GPSJP</string>
+    <string name="nome_do_local_salvo">Nome do local salvo</string>
+    <string name="local_1">Local 1</string>
+    <string name="salvar_localiza_o">Salvar localização</string>
+    <string name="achar_localiza_o">Achar localização</string>
+    <string name="sua_localiza_o">Sua localização</string>
+    <string name="locliza_o_gps">Loclização GPS</string>
+    <string name="locais_salvos">Locais Salvos</string>
+    <string name="salvar">Salvar</string>
+    <string name="local_salvo_2">local_salvo_2</string>
+    <string name="local_salvo_1">local_salvo_1</string>
+    <string name="ponto_2">Ponto 2</string>
+    <string name="ponto_1">Ponto 1</string>
+    <string name="dist_ncia">Distância</string>
+    <string name="ponto1">Ponto1</string>
+    <string name="calcular_rea">Calcular área</string>
+    <string name="area">Area</string>
+    <string name="ver_no_mapa">Ver no Mapa</string>
+</resources>
